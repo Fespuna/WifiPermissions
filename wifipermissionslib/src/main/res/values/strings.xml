@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WifiPermissionsLib</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="wifi_enabled">Wifi Enabled</string>
+    <string name="askforgps">YOU NEED TO HAVE THE GPS ENABLED TO CONTINUE.\n\n ENABLE GPS?</string>
+    <string name="android_permissions">Android permissions</string>
+    <string name="gps_enabled">GPS enabled</string>
+    <string name="continuex">Continue</string>
+    <string name="requirements_before_use_this_app">REQUIREMENTS BEFORE USE THIS APP</string>
+</resources>
