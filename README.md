@@ -3,6 +3,8 @@
 This repository provides you all the required permissions to display a list of the wifi networks available arround you.
 ----------------
 
+How to import the library
+
 ```
 	allprojects {
 		repositories {
