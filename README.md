@@ -3,6 +3,9 @@
 This repository provides you all the required permissions to display a list of the wifi networks available arround you.
 ----------------
 
+![alt text](https://beetalkweb.com/repositoryimages/wifipermissions.png)
+
+
 How to import the library
 
 ```
